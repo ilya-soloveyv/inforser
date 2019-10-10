@@ -1,0 +1,23 @@
+[
+  {
+    "login": "ivanov",
+    "firstname": "Иван",
+    "middlename": "Иванович",
+    "lastname": "Иванов",
+    "password": "pass1",
+    "permission": [
+      "manager",
+      "administrator"
+    ]
+  },
+  {
+    "login": "petrov",
+    "firstname": "Петр",
+    "middlename": "Петрович",
+    "lastname": "Петров",
+    "password": "pass2",
+    "permission": [
+      "manager"
+    ]
+  }
+]
